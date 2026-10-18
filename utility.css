@@ -1,0 +1,45 @@
+.red {
+  background-color: red;
+}
+.black {
+  background-color: black;
+}
+.grey {
+  background-color: #121212;
+}
+.flex {
+  display: flex;
+}
+.justify {
+  justify-content: center;
+}
+.alignment {
+  text-align: center;
+}
+.border {
+  border: 2px solid yellow;
+}
+.invert {
+  filter: invert(1);
+}
+.r1 {
+  border-radius: 5px;
+}
+.p1 {
+  padding: 10px;
+}
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #333; /* Dark color for the thumb */
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #222; /* Dark color for the track */
+}
+
+/* For Firefox */
+scrollbar-color: #333 #222; /* Dark color for the thumb and track in Firefox */
