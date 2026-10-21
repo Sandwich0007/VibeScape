@@ -1,0 +1,121 @@
+[
+  {
+    "folder": "ncs",
+    "title": "No Copyright Song",
+    "description": "Songs for you",
+    "songs": [
+      "Burn.webm",
+      "Closer.webm",
+      "Let_Me_Love_You.webm",
+      "See_You_Again.webm",
+      "We_Don_t_Talk_Anymore.webm"
+    ]
+  },
+  {
+    "folder": "Bollywood",
+    "title": "Desi Hits",
+    "description": "Bollywood Songs",
+    "songs": [
+      "Aaj Ki Raat Stree.webm",
+      "Aavan Jaavan.webm",
+      "Balam Pichkari.webm",
+      "Ghungroo.webm",
+      "Kar Gayi Chull.webm",
+      "Khoobsurat.webm",
+      "Nashe Si Chadh Gayi.webm",
+      "Sau Aasmaan.mp4",
+      "The Breakup Song.webm",
+      "Tu Meri.webm"
+    ]
+  },
+  {
+    "folder": "Arjit Singh",
+    "title": "Arjit Singh",
+    "description": "Songs for you",
+    "songs": [
+      "Agar Tum Saath Ho.webm",
+      "Apna Bana Le.webm",
+      "Dekha Hazaro Dafaa.mp4",
+      "Duniya Alag.webm",
+      "Heeriye.webm",
+      "Jaan Ban Gaye.webm",
+      "Kalank-Title.webm",
+      "KHAIRIYAT.webm",
+      "Phir Bhi Tumko Chaahunga.webm",
+      "Zaalima.webm"
+    ]
+  },
+  {
+    "folder": "Atif Aslam",
+    "title": "Atif Aslam",
+    "description": "Songs for you",
+    "songs": [
+      "Baarish.webm",
+      "Dil Diyan Gallan.webm",
+      "Jeene Laga Hoon.webm",
+      "Main Agar.webm",
+      "Man Aamadeh Am.webm",
+      "O Meri Laila.webm",
+      "O Saathi.webm",
+      "Tere Sang Yaara.mp4",
+      "Tu Chahiye.webm",
+      "Tu Jaane Na.webm"
+    ]
+  },
+  {
+    "folder": "Anne Marie",
+    "title": "Anne Marie",
+    "description": "Songs for you",
+    "songs": [
+      "2002.webm",
+      "Alarm.webm",
+      "Bad Girlfriend.webm",
+      "Birthday.webm",
+      "Ciao Adios.webm",
+      "Cry.webm",
+      "Marshmello FRIENDS.webm",
+      "Perfect_to_Me.mp4",
+      "Rockabye.mp4",
+      "Then.webm"
+    ]
+  },
+  {
+    "folder": "Ed Sheeran",
+    "title": "Ed Sheeran",
+    "description": "Songs for you",
+    "songs": [
+      "Bad Habits.webm",
+      "Perfect.webm",
+      "Photograph.webm",
+      "Shape of You.webm",
+      "Shivers.webm",
+      "Thinking out Loud.webm"
+    ]
+  },
+  {
+    "folder": "Global Hits",
+    "title": "Global Hits",
+    "description": "Hollywood Songs",
+    "songs": [
+      "khairiyat.webm"
+    ]
+  },
+  {
+    "folder": "Ellie Goulding",
+    "title": "Ellie Goulding",
+    "description": "Songs for you",
+    "songs": []
+  },
+  {
+    "folder": "Katty Perry",
+    "title": "Katty Perry",
+    "description": "Songs for you",
+    "songs": []
+  },
+  {
+    "folder": "Relax",
+    "title": "Relax Mood",
+    "description": "Songs for you",
+    "songs": []
+  }
+]
